@@ -1,3 +1,13 @@
 /target/
 .mvn/
 *.class
+
+# IDE Settings (Agrega esto para evitar errores de checkout)
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# OS Metadata
+.DS_Store
+Thumbs.db
